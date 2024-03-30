@@ -2858,6 +2858,10 @@ for tabs and large phones
 
 
 @media only screen and (max-width: 600px) {
+    #loader {
+        font-size: 40px;
+    }
+
     .navigation-links a {
         font-size: 24px;
     }
